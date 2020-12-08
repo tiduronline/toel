@@ -1,5 +1,5 @@
 [package]
-name = "api"
+name = "toel"
 version = "0.1.0"
 authors = ["Verri A <verri@tiduronline.com>"]
 edition = "2018"
